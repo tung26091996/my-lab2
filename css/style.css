@@ -1,0 +1,23 @@
+*{
+    font-family: Tahoma;
+    font-size: 11px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.redtext{
+    color: red;
+}
+.greentext{
+    color: green;
+    font-style: italic;
+}
+.note{
+    font-family: Consolas;
+}
+a.link:link, a.link:visited
+{
+    color:blue;
+    text-decoration:none;
+}
